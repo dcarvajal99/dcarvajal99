@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Soy Ingeniero en Conectividad y Redes y actualmente me encuentro estudiando programacion busco poder combinar estas dos áreas que me apasionan <3. <br>
 
 
-## 🌐 Socials:
+## 🌐 RRSS:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/dcarvajal99/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-carvajal-9756b311a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Carv4jalD) 
 
 # 💻 Tech Stack:
@@ -12,11 +12,9 @@ Soy Ingeniero en Conectividad y Redes y actualmente me encuentro estudiando prog
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dcarvajal99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dcarvajal99&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Frase Random
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-(https://random-memer.herokuapp.com/)
 
 ---
 ![](https://visitcount.itsvg.in/api?id=dcarvajal99&icon=0&color=0)](https://visitcount.itsvg.in)
