@@ -16,7 +16,7 @@ Soy Ingeniero en Conectividad y Redes y actualmente me encuentro estudiando prog
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+![]("https://random-memer.herokuapp.com/")
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dcarvajal99&icon=0&color=0)](https://visitcount.itsvg.in)
