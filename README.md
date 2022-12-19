@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Soy Ingeniero en Conectividad y Redes y actualmente me encuentro estudiando programacion busco poder combinar estas dos áreas que me apasionan <3. <br>
+Soy Ingeniero en Conectividad y Redes y actualmente me encuentro realizando un curso de Full Stack Javascript y busco poder combinar estas dos áreas que me apasionan <3. <br>
 
 
 ## 🌐 RRSS:
@@ -20,3 +20,5 @@ Soy Ingeniero en Conectividad y Redes y actualmente me encuentro estudiando prog
 ![](https://visitcount.itsvg.in/api?id=dcarvajal99&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## hi
