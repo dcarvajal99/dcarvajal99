@@ -17,7 +17,7 @@ Soy Ingeniero en Conectividad y Redes y actualmente me encuentro realizando un c
 
 
 ---
-![](https://visitcount.itsvg.in/api?id=dcarvajal99&icon=0&color=0)]
+![](https://visitcount.itsvg.in/api?id=dcarvajal99&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
