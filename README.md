@@ -21,4 +21,4 @@ Soy Ingeniero en Conectividad y Redes y actualmente me encuentro realizando un c
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🙌🙌🙌🙌 Gracias por leer🙌🙌🙌🙌
+# 🙌🙌🙌🙌 Gracias por leer🙌🙌🙌🙌
