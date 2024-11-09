@@ -1,6 +1,6 @@
-# 💫 Sobre mi:
+<!--(url)# 💫 Sobre mi:
 Soy un apasionado Ingeniero en Conectividad y Redes, y actualmente estoy expandiendo mis habilidades en el campo de desarrollo web como Full Stack Javascript. Mi objetivo es combinar estas dos áreas de experiencia para crear soluciones innovadoras y eficientes en el mundo de las redes y la conectividad.<br><br>Con mi sólido conocimiento en conectividad y redes, puedo aplicar principios de diseño de redes eficientes y seguras a mis proyectos de desarrollo web. Además, mi comprensión profunda de los protocolos de comunicación y la arquitectura de sistemas me permite abordar desafíos técnicos desde una perspectiva integral.<br><br>Al combinar mis habilidades en Full Stack Javascript con mis conocimientos en conectividad y redes, aspiro a desarrollar aplicaciones y sistemas web altamente escalables y con un rendimiento óptimo. Estoy emocionado de explorar nuevas tecnologías y marcos de trabajo que me permitan crear soluciones versátiles y robustas para satisfacer las demandas de un mundo cada vez más interconectado.
-
+-->
 
 ## 🌐 RRSS:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-carvajal-9756b311a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/dcarvajal99) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Carv4jalD) 
